@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Andio</string>
+    <string name="StartRecording">Start Recording</string>
+    <string name="StopRecording">Stop Recording</string>
+    <string name="Delete">Delete</string>
+    <string name="Play">Play</string>
+    <string name="Stop">Stop</string>
+</resources>

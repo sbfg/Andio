@@ -1,5 +1,5 @@
 # Andio
-simple android audio recorder
+Simple android audio recorder
 
 License
 -------
